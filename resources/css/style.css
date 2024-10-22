@@ -1,0 +1,60 @@
+
+/* HOME */
+body {
+    background: linear-gradient(120deg, #BEADFA, #BEADFA, #F5D4D3);
+    height: 100vh;
+}
+.ikon-top img{
+    width: 520px;
+}
+.homepage{
+    z-index: 1;
+}
+.homepage .mid-content .card{
+    width: 350px;
+}
+.homepage .col-2 a{
+    font-size: 20px;
+    background-color: white;
+    color: #3b3b3b;
+    padding: 6px 10px;
+    border-radius: 100%;
+}
+.homepage .col-2{
+    margin-top: 290px;
+    margin-left: -30px;
+    margin-right: 30px;
+}
+.homepage .row .card{
+    height: 450px;
+}
+.homepage .row .card img{
+    margin-top: -100px;
+}
+.homepage .card p{
+    font-size: 20px;
+}
+
+.homepage .row .col-7 h1{
+    margin-top: -60px;
+    font-size: 66px;
+    font-weight: 600;
+    color: white;
+}
+
+.index-barang .btn-tambah {
+    background-color: #FF9843;
+    color: white;
+}
+
+.halaman-tambah {
+    border: 1px solid #aaaaaa;
+}
+
+.halaman-detail {
+    border: 1px solid #aaaaaa;
+}
+
+.halaman-edit {
+    border: 1px solid #aaaaaa;
+}
